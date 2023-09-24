@@ -10,7 +10,8 @@ djangorestframework = "~=3.12.2"
 djangorestframework-gis = "~=0.17"
 flake8 = "*"
 black = "*"
-gdal = "*"
+psycopg2-binary = "*"
+django-environ = "*"
 
 [dev-packages]
 
